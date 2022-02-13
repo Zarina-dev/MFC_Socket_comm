@@ -32,21 +32,21 @@ Project:  Dialog Based , check Windows Socket
 -----
 ## Server side:
 
-* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_client.h">ProjApp.h</a>
-* ProjApp.cpp
-* ProjDlg.h
-* ProjDlg.cpp
-* ListeningSocket.h
-* ListeningSocket.cpp
-* UserCommSocket.h
-* UserCommSocket.cpp
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_server.h">    ServerProjApp.h</a>
+* <a href = "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_server.cpp"> ServerProjApp.cpp</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_serverDlg.h" >ServerProjDlg.h </a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_serverDlg.cpp" > ServerProjDlg.cpp</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/ListeningSocket.h" >             ListeningSocket.h</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/ListeningSocket.cpp" >           ListeningSocket.cpp</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/UserCommSock2.h" >               UserCommSocket.h</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/UserCommSock2.cpp" >             UserCommSocket.cpp</a>
 
 -----
-## Clien side:
+## Client side:
 
-* ProjApp.h
-* ProjApp.cpp
-* ProjDlg.h
-* ProjDlg.cpp
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_client.h" > ClientProjApp.h</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_client.cpp" > ClientProjApp.cpp</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_clientDlg.h" > ClientProjDlg.h</a>
+* <a href= "https://github.com/Zarina-dev/MFC_Socket_comm/blob/main/20220213MFC_CSocket_clientDlg.cpp" > ClientProjDlg.cpp</a>
 
 
