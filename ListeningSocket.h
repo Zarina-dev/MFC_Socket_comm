@@ -11,7 +11,7 @@ public:
 	virtual ~ListeningSocket();
 	virtual void OnAccept(int nErrorCode);
 public:
-	UserCommSock1 m_userSock1;
+	
 	UserCommSock2 m_userCommSock2;
 };
 
